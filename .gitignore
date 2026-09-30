@@ -107,4 +107,7 @@ dist
 
 # TernJS port file
 .tern-port
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> e50280fbd87ea17280ae3fca68d8c66d47ab481d

@@ -18,8 +18,11 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@pnotify/core": "^5.2.0",
     "lodash.debounce": "^4.0.8",
+=======
+>>>>>>> e50280fbd87ea17280ae3fca68d8c66d47ab481d
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
